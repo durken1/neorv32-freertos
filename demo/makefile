@@ -6,7 +6,7 @@
 FREERTOS_HOME ?= ../FreeRTOS-Kernel
 
 # NEORV32 home folder
-NEORV32_HOME ?= ../neorv32
+NEORV32_HOME ?= ../../neorv32
 
 
 # User's application sources (*.c, *.cpp, *.s, *.S); add additional files here
